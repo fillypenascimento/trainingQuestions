@@ -1,2 +1,2 @@
 # trainingQuestions
-A repository for trainig the questions that can appear in job interviews.
+A repository for training the questions that can appear in job interviews.
